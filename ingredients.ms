@@ -1,0 +1,1 @@
+Water,Rice,Salt,Oil,Onion and Cumin Seeds.
